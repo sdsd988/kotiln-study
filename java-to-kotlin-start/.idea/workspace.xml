@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a19f3cd8-68f8-4c07-856c-10c0bd777459" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec04/JavaMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec06/Lec06Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec07/FilePrinter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec07/FilePrinter2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec07/Lec07Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec04/Lec04Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec04/Lec04Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/kotlin-with-java.main/META-INF/kotlin-with-java.main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/production/kotlin-with-java.main/META-INF/kotlin-with-java.main.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec05/Lec05Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec05/Lec05Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +28,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Script" />
-        <option value="Kotlin Class" />
         <option value="package-info" />
         <option value="Kotlin Data Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -68,7 +71,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Lec06MainKt">
     <configuration name="Lec04MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lannstark.lec04.Lec04MainKt" />
       <module name="kotlin-with-java.main" />
@@ -76,8 +79,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lec06MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec06MainKt" />
+      <module name="kotlin-with-java.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Lec06MainKt" />
         <item itemvalue="Kotlin.Lec04MainKt" />
       </list>
     </recent_temporary>
@@ -93,7 +104,8 @@
       <workItem from="1683371723766" duration="3772000" />
       <workItem from="1683384752033" duration="3783000" />
       <workItem from="1685336016542" duration="1835000" />
-      <workItem from="1685337895934" duration="5000" />
+      <workItem from="1685337895934" duration="607000" />
+      <workItem from="1685521107053" duration="3463000" />
     </task>
     <servers />
   </component>
