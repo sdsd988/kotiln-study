@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a19f3cd8-68f8-4c07-856c-10c0bd777459" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec10/Animal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec10/Cat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec10/Flyable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec10/Lec10Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec10/Penguin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec10/Swimable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec11/Lec11Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec11/StringUtils.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +110,8 @@
       <workItem from="1685722630629" duration="38000" />
       <workItem from="1685723053831" duration="2851000" />
       <workItem from="1685811521985" duration="897000" />
-      <workItem from="1686235789591" duration="1462000" />
+      <workItem from="1686235789591" duration="1783000" />
+      <workItem from="1686322994595" duration="2312000" />
     </task>
     <servers />
   </component>
