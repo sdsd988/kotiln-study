@@ -5,13 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a19f3cd8-68f8-4c07-856c-10c0bd777459" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec13/House.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec14/PersonDto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/delegate/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/dsl/DockerCompose.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/generic/Animal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/generic/Cage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec04/Money.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec15/lec15Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/reflect/Reflection.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/kotlin-with-java.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kotlin-with-java.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec01/Lec01Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec01/Lec01Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec02/Lec02Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec02/Lec02Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec08/Lec08Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec08/Lec08Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec09/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/lannstark/lec09/Person.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/META-INF/kotlin-with-java.main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/META-INF/kotlin-with-java.main.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec01/Lec01MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec01/Lec01MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec02/Lec02MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec02/Lec02MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec03/Lec03MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec03/Lec03MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec04/Lec04MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec04/Lec04MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec05/Lec05MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec05/Lec05MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec07/FilePrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec07/FilePrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec07/FilePrinter2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec07/FilePrinter2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec08/Lec08MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec08/Lec08MainKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec09/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec09/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec09/PersonKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec09/PersonKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Derived.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Derived.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Flyable$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Flyable$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Penguin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Penguin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Swimable$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec10/Swimable$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec12/Person$Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec12/Person$Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec14/PersonDtoKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../production/kotlin-with-java.main/com/lannstark/lec14/PersonDtoKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +51,37 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-with-java" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-with-java" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Script" />
         <option value="package-info" />
         <option value="Kotlin Data Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin Interface" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -49,27 +99,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/jeongsang-yun/Downloads/java-to-kotlin-start/src/main/kotlin",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.kotlinCompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jeongsang-yun/Documents/GitHub/kotiln-study/java-to-kotlin-start/build.gradle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.kotlinCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
@@ -78,7 +128,14 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PersonDtoKt">
+  <component name="RunManager" selected="Kotlin.PersonKt">
+    <configuration name="CageKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lannstark.generic.CageKt" />
+      <module name="kotlin-with-java.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lec01MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lannstark.lec01.Lec01MainKt" />
       <module name="kotlin-with-java.main" />
@@ -86,15 +143,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonDtoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lannstark.lec14.PersonDtoKt" />
+    <configuration name="Lec02MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lannstark.lec02.Lec02MainKt" />
+      <module name="kotlin-with-java.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec10MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lannstark.lec10.Lec10MainKt" />
       <module name="kotlin-with-java.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PersonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lannstark.lec09.PersonKt" />
+      <option name="MAIN_CLASS_NAME" value="com.lannstark.delegate.PersonKt" />
       <module name="kotlin-with-java.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,9 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.PersonDtoKt" />
         <item itemvalue="Kotlin.PersonKt" />
+        <item itemvalue="Kotlin.Lec02MainKt" />
+        <item itemvalue="Kotlin.CageKt" />
         <item itemvalue="Kotlin.Lec01MainKt" />
+        <item itemvalue="Kotlin.Lec10MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +191,11 @@
       <workItem from="1686235789591" duration="1783000" />
       <workItem from="1686322994595" duration="2312000" />
       <workItem from="1686647395643" duration="809000" />
-      <workItem from="1686669116857" duration="1063000" />
+      <workItem from="1686669116857" duration="3091000" />
+      <workItem from="1686798322271" duration="10000" />
+      <workItem from="1686798349728" duration="34000" />
+      <workItem from="1686806566741" duration="14000" />
+      <workItem from="1686806590320" duration="6000" />
     </task>
     <servers />
   </component>

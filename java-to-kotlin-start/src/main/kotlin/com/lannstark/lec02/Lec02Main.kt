@@ -1,6 +1,6 @@
 package com.lannstark.lec02
 
-import java.lang.IllegalArgumentException
+import kotlin.IllegalArgumentException
 
 
 fun main(){
@@ -10,9 +10,8 @@ fun main(){
      */
 fun startsWithA1(str: String?): Boolean{
 
-   return str?.startsWith("A")
-    ?:throw IllegalArgumentException("null이 들어왔습니다.")
-
+    //리팩토링 해보기
+    return str?.startsWith("A")?:throw IllegalArgumentException("null이 들어왔습니다.")
 //    if(str==null){
 //        throw IllegalArgumentException("null이 들어왔습니다.")
 //    }
@@ -21,7 +20,8 @@ fun startsWithA1(str: String?): Boolean{
 
 fun startsWithA2(str:String?): Boolean?{
 
-    return str?.startsWith("A")
+    // 리팩토링 해보기
+        return str?.startsWith("A")
 //    if(str == null){
 //        return null
 //    }
@@ -30,8 +30,8 @@ fun startsWithA2(str:String?): Boolean?{
 
 fun startsWithA3(str: String?): Boolean{
 
-    return str?.startsWith("A")?: false
-
+    //리팩토링 해보기
+     return str?.startsWith("A")?: false
 //    if(str == null){
 //        return false
 //    }

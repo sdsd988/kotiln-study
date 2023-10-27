@@ -1,6 +1,8 @@
 package com.lannstark.lec08
 
-
+/**
+ *  namedParameter를 활용하면  java의 builder 패턴을 활용할 수 있다...
+ */
 fun main(){
     repeat("Hello World",3,true)
 

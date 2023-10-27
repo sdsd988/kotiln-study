@@ -6,7 +6,8 @@ fun main(){
      1. 변수 선언 키워드 - var, val 차이
      모든 변수는 불변으로 선언하고, 필요한 경우 가변으로 변경
      */
-    var number1 = 10L
+    var number1 : Long = 5
+    println(number1)
     val number2 = 10L
 
     /*
